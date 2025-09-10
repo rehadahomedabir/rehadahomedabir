@@ -7,7 +7,7 @@ Web Developer and Designer
 ✏️ I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [Portfolio](http://www.osmanbd.com)
+* 🖥️  See my portfolio at [Portfolio](https://dev-abir-portfolio.netlify.app/)
 * ✉️  You can contact me at [contract@osmanbd.com](mailto:contract@osmanbd.com)
 * 🚀  I'm currently working on [MyWebApp](http://idcard-bd.netlify.app)
 * 🧠  I'm currently learning Flutter Framework
