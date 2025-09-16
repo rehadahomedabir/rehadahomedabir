@@ -9,8 +9,8 @@ Web Developer and Designer
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Portfolio](https://dev-abir-portfolio.netlify.app/)
 * ✉️  You can contact me at [contract@osmanbd.com](mailto:contract@osmanbd.com)
-* 🚀  I'm currently working on [MyWebApp](http://idcard-bd.netlify.app)
-* 🚀  I'm currently working on [MyWebApp](http://idcard-bd.netlify.app)
+* 🚀  I'm currently working on [MyWebApp-AUTO ID CARD MAKING](http://idcard-bd.netlify.app)
+* 🚀  I'm currently working on [MyWebApp-AI HUB (AI TOOLS)](https://aihub-bd.netlify.app/)
 * 🧠  I'm currently learning Flutter Framework
 * 👥  I'm looking to collaborate on interesting projects ⚡
 * 💬  Ask me about I'm secretly Spiderman... but don't tell anyone
